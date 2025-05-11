@@ -1,6 +1,6 @@
 export const products = [{
   id: 1,
-  name: "Organic Rice (5kg)",
+  name: "Organic Rice ",
   price: 299,
   image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
   description: "Premium quality organic rice, perfect for daily consumption.",
